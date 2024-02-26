@@ -1,0 +1,5 @@
+IP: 84.201.161.150;
+name_taski: https://myserv555.ddns.net/;
+name_kittygram: https://sprint15.ddns.net/;
+login: hard555;
+password: 3803287qqq;
